@@ -1,0 +1,17 @@
+{
+    "name": "maksymmasliak/php-oop-patterns",
+    "description": "OOP Design Patterns",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Maksym Masliak",
+            "email": "maksym.masliak@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Patterns\\": "src/"
+        }
+    }
+}
